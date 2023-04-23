@@ -24,7 +24,7 @@ function convert(){
 	var pythonScript = "";
 
 	// Write module imports to output file:
-	pythonScript += "# Converted using ducky2python by CedArctic (https://github.com/CedArctic/ducky2python) \n";
+	pythonScript += "# Converted using ducky2python by Sadqi (http://python.asadqi.com/) \n";
 	pythonScript +="import pyautogui\n";
 	pythonScript += "import time\n";
 
